@@ -1,2 +1,2 @@
 # poemWebsite
-this poem(s) will b eon the internet
+this poem(s) will be on the internet
