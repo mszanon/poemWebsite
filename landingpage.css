@@ -1,0 +1,85 @@
+/* Reset default styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  /* Body styles */
+  body {
+    background-color: #fff;
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  /* Main content styles */
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Book listing styles */
+  .book-listing {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .book-listing img {
+    max-width: 100px;
+    margin-right: 10px;
+  }
+  
+  .book-listing .book-info {
+    flex: 1;
+  }
+  
+  .book-listing h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .book-listing p {
+    font-size: 16px;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Link styles */
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #444;
+  }
+  
